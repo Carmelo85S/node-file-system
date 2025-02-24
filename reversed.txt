@@ -1,0 +1,1 @@
+Module system in Node are pieces of code that have functionality such as file operation or data manipulation
